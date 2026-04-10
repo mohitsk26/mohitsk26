@@ -9,8 +9,13 @@ Worked on:
 - Real-time streaming pipeline (Kafka → PySpark → Data Lake → Tableau)
 - RAG-based NLP system using embeddings & vector search  
 
-Exploring **AI/ML, NLP, and RAG systems** for intelligent data retrieval.
+Exploring:
+• Machine Learning fundamentals (supervised & unsupervised learning)  
+• NLP concepts (text processing, tokenization, embeddings)  
+• RAG (Retrieval-Augmented Generation) using vector databases  
+• Deep Learning basics and model understanding  
 
+Interested in combining data engineering with AI to build intelligent data-driven systems.
 ---
 
 # 🛠 Tech Stack
@@ -18,20 +23,24 @@ Exploring **AI/ML, NLP, and RAG systems** for intelligent data retrieval.
 **Languages & Querying:**  
 Python, SQL  
 
+**Data Analysis & Processing:**  
+Pandas, NumPy, Exploratory Data Analysis (EDA), Data Cleaning & Transformation  
+
 **Data Engineering:**  
-Kafka, PySpark, Spark Structured Streaming, Hive  
+Apache Kafka, PySpark, Spark Structured Streaming, ETL Pipeline Development  
 
-**Data Processing & Analysis:**  
-Pandas, NumPy, EDA, Data Cleaning  
-
-**Visualization:**  
+**Visualization & BI:**  
 Power BI, Tableau  
 
 **Databases:**  
 MySQL, PostgreSQL  
 
 **Cloud & Tools:**  
-AWS, Azure, Git, Linux  
+AWS (S3, EC2), Git, Linux 
+
+**AI / ML & NLP:**  
+Machine Learning, NLP (Text Processing, Embeddings),  
+RAG (Retrieval-Augmented Generation, Vector Search)
 
 ---
 

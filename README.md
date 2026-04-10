@@ -17,13 +17,6 @@ Tech: Python, SQL, Kafka, PySpark, Hive, Tableau, Power BI, AWS, Azure
 
 ![](https://github-readme-stats.vercel.app/api?username=mohitsk26&show_icons=true&theme=tokyonight)
 
-![](https://streak-stats.demolab.com?user=mohitsk26&theme=tokyonight)
 
-
----
-![](https://github-readme-activity-graph.vercel.app/graph?username=mohitsk26&theme=tokyo-night)
-
-
-![](https://github-profile-trophy.vercel.app/?username=mohitsk26&theme=tokyonight)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

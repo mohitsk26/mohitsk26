@@ -21,6 +21,7 @@ Tech: Python, SQL, Kafka, PySpark, Hive, Tableau, Power BI, AWS, Azure
 
 ![](https://github-readme-stats-private-wdbg.vercel.app/api/top-langs/?username=mohitsk26&layout=compact&theme=tokyonight&count_private=true)
 
+
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

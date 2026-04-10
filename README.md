@@ -1,5 +1,5 @@
- 💫 About Me:
-Data Analyst | Aspiring Data Engineer
+💫 About Me:
+ Data Analyst | Aspiring Data Engineer
 
 Building scalable batch & real-time data pipelines using Kafka and PySpark.
 Strong in ETL workflows, data modeling, and large-scale data processing.
@@ -19,8 +19,6 @@ Tech: Python, SQL, Kafka, PySpark, Hive, Tableau, Power BI, AWS, Azure
 
 ![](https://github-profile-trophy.vercel.app/?username=mohitsk26&theme=tokyonight)
 
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=mohitsk26&theme=tokyo-night)
 
 
 ![](https://github-readme-stats.vercel.app/api?username=mohitsk26&show_icons=true&theme=tokyonight)

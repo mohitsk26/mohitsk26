@@ -1,59 +1,70 @@
 # 💫 About Me
 
-Data Analyst | Aspiring Data Engineer  
+AI/ML | Data Engineering | Data Analytics
 
-Building **real-time and batch data pipelines** using Kafka and PySpark.  
-Experienced in **ETL workflows, data modeling, and distributed data processing**.  
+Building scalable **data-driven and intelligent systems** using Python, SQL, PySpark, Apache Kafka, and cloud platforms.
 
-Worked on:
-- Real-time streaming pipeline (Kafka → PySpark → Data Lake → Tableau)
-- RAG-based NLP system using embeddings & vector search  
+Hands-on experience in:
+- Real-time and batch data pipeline development
+- ETL workflows and distributed data processing
+- Exploratory data analysis and KPI-driven insights
+- NLP workflows, semantic search, and Retrieval-Augmented Generation (RAG)
+- Data visualization and analytical dashboard development
 
-Exploring:
-• Machine Learning fundamentals (supervised & unsupervised learning)  
-• NLP concepts (text processing, tokenization, embeddings)  
-• RAG (Retrieval-Augmented Generation) using vector databases  
-• Deep Learning basics and model understanding  
+## Worked On
+🔹 Real-time transaction analytics pipeline  
+**Kafka → PySpark Structured Streaming → Hive/Data Lake → Tableau**
 
-Interested in combining data engineering with AI to build intelligent data-driven systems.
+🔹 Intelligent document retrieval system  
+**Embeddings → FAISS Vector Search → Semantic Retrieval → Contextual Q&A**
+
+Interested in building scalable systems at the intersection of **AI/ML, data engineering, and analytics**.
+
 ---
 
 # 🛠 Tech Stack
 
-**Languages & Querying:**  
-Python, SQL  
+### Languages & Querying
+Python • SQL
 
-**Data Analysis & Processing:**  
-Pandas, NumPy, Exploratory Data Analysis (EDA), Data Cleaning & Transformation  
+### Data Engineering
+Apache Kafka • PySpark • Structured Streaming • ETL Pipelines • Data Warehousing • Batch & Stream Processing
 
-**Data Engineering:**  
-Apache Kafka, PySpark, Spark Structured Streaming, ETL Pipeline Development  
+### Data Analysis
+Pandas • NumPy • Exploratory Data Analysis (EDA) • Data Cleaning • KPI Analysis
 
-**Visualization & BI:**  
-Power BI, Tableau  
+### AI / ML / NLP
+Machine Learning • Supervised & Unsupervised Learning • Feature Engineering • Model Evaluation • NLP • TF-IDF • Embeddings • FAISS • Semantic Search • RAG
 
-**Databases:**  
-MySQL, PostgreSQL  
+### Databases
+MySQL • PostgreSQL • Hive
 
-**Cloud & Tools:**  
-AWS (S3, EC2), Git, Linux 
+### Visualization
+Power BI • Tableau • Excel
 
-**AI / ML & NLP:**  
-Machine Learning, NLP (Text Processing, Embeddings),  
-RAG (Retrieval-Augmented Generation, Vector Search)
+### Cloud & Tools
+AWS • Azure • Git • Linux
 
 ---
 
 # 🚀 Featured Projects
 
-🔹 **Real-Time Data Pipeline (Kafka + PySpark)**  
-- Built streaming pipeline with **event-time processing & checkpointing**  
-- Designed **Bronze/Silver data lake architecture**  
-- Delivered **fraud analytics dashboard using Tableau**
+## 🔹 Real-Time Streaming Data Pipeline
+**Kafka | PySpark | Hive | Tableau**
 
-🔹 **RAG-based Document Intelligence System**  
-- Implemented **semantic search using embeddings + FAISS**  
-- Built **context-aware Q&A system** for unstructured data  
+- Built an end-to-end real-time transaction data pipeline
+- Implemented event-time processing, checkpointing, and schema enforcement
+- Designed Bronze/Silver data lake architecture using Parquet
+- Delivered Tableau dashboards for fraud analysis and KPI insights
+
+---
+
+## 🔹 Document Intelligence System (RAG)
+**Python | NLP | FAISS**
+
+- Built intelligent document retrieval using embeddings and vector similarity search
+- Implemented semantic search for unstructured document understanding
+- Enabled contextual question answering using Retrieval-Augmented Generation
 
 ---
 
